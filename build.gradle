@@ -6,7 +6,7 @@ allprojects {
     targetCompatibility = 1.7
 
     version 'v0.19.5'
-    group 'com.github.TeamNewPipe'
+    group 'com.github.starappdev'
 
     repositories {
         jcenter()
