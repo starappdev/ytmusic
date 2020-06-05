@@ -64,7 +64,7 @@ public class YoutubeParsingHelper {
     private static final String HARDCODED_CLIENT_VERSION = "2.20200214.04.00";
     private static String clientVersion;
 
-    private static final String[] HARDCODED_YOUTUBE_MUSIC_KEYS = {"AIzaSyC9XL3ZjWddXya6X74dJoCTL-WEYFDNX30", "67", "0.1"};
+    private static final String[] HARDCODED_YOUTUBE_MUSIC_KEYS = {"", "67", "0.1"};
     private static String[] youtubeMusicKeys;
 
     private static final String FEED_BASE_CHANNEL_ID = "https://www.youtube.com/feeds/videos.xml?channel_id=";
